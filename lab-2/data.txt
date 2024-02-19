@@ -1,0 +1,12 @@
+23
+85
+39
+3
+54
+85
+10
+51
+80
+30
+Average: 46.0
+Standard Deviation: 30.3
