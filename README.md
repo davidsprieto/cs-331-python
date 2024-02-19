@@ -2,5 +2,3 @@
 
 Programming Language:
 - Python
-# cs-331-python
-# cs-331-python
